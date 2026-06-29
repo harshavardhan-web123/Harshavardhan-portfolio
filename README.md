@@ -46,6 +46,7 @@ Click Save
 
 👉 Your website will be live at:
 https://your-username.github.io/repo-name/
+
 📌 Projects Highlighted
 
 ⚖️ Application Load Balancer with Path-based Routing
@@ -55,8 +56,13 @@ https://your-username.github.io/repo-name/
 🔄 CI/CD Pipeline for Java Application
 
 📞 Contact Information
+
 📧 Email: harshavardhanmbagavar123@gmail.com
+
 📱 Phone: +91 8073943758
+
 📍 Location: Bangalore, India
+
 🔗 LinkedIn: https://linkedin.com/in/harshavardhanbagavar
+
 💻 GitHub: https://github.com/harshavardhan-web123
