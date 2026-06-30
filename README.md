@@ -5,26 +5,44 @@ This is a personal portfolio website of Harshavardhan Bagavar, a Cloud & DevOps 
 The website showcases skills, projects, experience, education, and contact details in a modern and interactive UI.
 
 🚀 Features
+
 ✨ Modern UI with animations and gradients
+
 🎯 Fully responsive design (mobile + desktop)
+
 🌌 Particle background & custom cursor effects
+
 📊 Skill progress bars with animations
+
 📁 Projects showcase section
+
 📞 Contact section with details
+
 ⚡ Smooth scrolling and reveal animations
+
 🛠️ Technologies Used
+
 HTML5
 CSS3 (Advanced styling + animations)
 JavaScript (Vanilla JS)
 Google Fonts
+
 📂 Sections Included
+
 🏠 Hero Section (Introduction)
+
 🧠 Skills & Technologies
+
 💼 Experience & Training
+
 📁 Projects
+
 🎓 Education
+
 🌍 Languages & Strengths
+
 📞 Contact
+
 🔧 How to Run Locally
 
 Download or clone the repository:
